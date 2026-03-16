@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="all_recipes">All recipes</string>
+    <string name="app_name">Zadanie1</string>
+    <string name="apply_language">Apply Language</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="dinner">Dinner</string>
+    <string name="dish_breakfast">Omelette</string>
+    <string name="dish_dinner">Grilled Salmon</string>
+    <string name="dish_lunch">Chicken Soup</string>
+    <string name="filter_by_type">Filter by meal type</string>
+    <string name="ingredients_omelette">Eggs, Milk, Salt, Butter</string>
+    <string name="ingredients_salmon">Salmon fillet, Lemon, Rosemary, Salt, Pepper</string>
+    <string name="ingredients_soup">Chicken, Water, Carrots, Onions, Noodles</string>
+    <string name="ingredients_title">Ingredients:</string>
+    <string name="language_de">German</string>
+    <string name="language_en">English</string>
+    <string name="language_ru">Russian</string>
+    <string name="lunch">Lunch</string>
+    <string name="play_recipe_voice">Listen to recipe</string>
+    <string name="select_language">Select Language</string>
+    <string name="steps_omelette">1. Whisk eggs with milk. 2. Pour into pan. 3. Cook until done.</string>
+    <string name="steps_salmon">1. Season salmon. 2. Grill for 5-7 mins each side. 3. Serve with lemon.</string>
+    <string name="steps_soup">1. Boil chicken. 2. Add chopped veggies. 3. Add noodles. Cook.</string>
+    <string name="steps_title">Steps:</string>
+    <string name="view_recipes">View Recipes</string>
+    <string name="watch_video">Watch video</string>
+    <style name="Base.Theme.Zadanie1" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Zadanie1" parent="Base.Theme.Zadanie1"/>
+</resources>

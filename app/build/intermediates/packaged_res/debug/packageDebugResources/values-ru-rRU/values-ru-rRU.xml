@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="all_recipes">Все рецепты</string>
+    <string name="app_name">Задание1</string>
+    <string name="apply_language">Применить язык</string>
+    <string name="breakfast">Завтрак</string>
+    <string name="dinner">Ужин</string>
+    <string name="dish_breakfast">Омлет</string>
+    <string name="dish_dinner">Лосось на гриле</string>
+    <string name="dish_lunch">Куриный суп</string>
+    <string name="filter_by_type">Фильтр по типу</string>
+    <string name="ingredients_omelette">Яйца - 4 шт, Молоко - 100 мл, Соль - 0,25 ч ложки (по вкусу), Масло - 1 ст. ложка (10-15 мл) </string>
+    <string name="ingredients_salmon">Филе лосося, Лимон, Розмарин, Соль, Перец</string>
+    <string name="ingredients_soup">Курица, Вода, Морковь, Лук, Лапша</string>
+    <string name="ingredients_title">Ингредиенты:</string>
+    <string name="language_de">Немецкий</string>
+    <string name="language_en">Английский</string>
+    <string name="language_ru">Русский</string>
+    <string name="lunch">Обед</string>
+    <string name="play_recipe_voice">Прослушать рецепт</string>
+    <string name="select_language">Выберите язык</string>
+    <string name="steps_omelette">1. Яйца разбиваем в глубокую миску.\n
+        2. Добавляем соль.\n
+        3. Разбалтываем вилкой или венчиком до однородности.\n
+        4. Вливаем молоко.\n
+        5. Тщательно перемешиваем.\n
+        6.В сковороде на среднем огне разогреваем растительное масло. Выливаем яичную смесь в сковороду.\n
+        7. Убавляем огонь до минимума, накрываем сковороду крышкой и готовим омлет примерно 5 минут, до полного схватывания яичной массы.</string>
+    <string name="steps_salmon">1. Приправьте лосось. 2. Жарьте на гриле 5-7 мин с каждой стороны. 3. Подавайте с лимоном.</string>
+    <string name="steps_soup">1. Сварите курицу. 2. Добавьте нарезанные овощи. 3. Добавьте лапшу. Варите.</string>
+    <string name="steps_title">Приготовление:</string>
+    <string name="view_recipes">Смотреть рецепты</string>
+    <string name="watch_video">Смотреть видео</string>
+</resources>
