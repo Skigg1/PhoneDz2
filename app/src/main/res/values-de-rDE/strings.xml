@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Aufgabe1</string>
+
+    <!-- Основные строки -->
+    <string name="ingredients_title">Zutaten:</string>
+    <string name="steps_title">Zubereitung:</string>
+    <string name="language_en">Englisch</string>
+    <string name="language_ru">Russisch</string>
+    <string name="language_de">Deutsch</string>
+    <string name="select_language">Sprache wählen</string>
+    <string name="filter_by_type">Nach Typ filtern</string>
+    <string name="breakfast">Frühstück</string>
+    <string name="lunch">Mittagessen</string>
+    <string name="dinner">Abendessen</string>
+
+    <!-- Названия блюд -->
+    <string name="dish_breakfast">Omelett</string>
+    <string name="dish_lunch">Hühnchensuppe</string>
+    <string name="dish_dinner">Gegrillter Lachs</string>
+
+    <!-- Ингредиенты -->
+    <string name="ingredients_omelette">Eier - 4 Stück, Milch - 100 ml, Salz - 0,25 Stunden Löffel (nach Geschmack), Öl - 1 EL. Löffel (10-15 ml)</string>
+    <string name="ingredients_soup">Huhn, Wasser, Karotten, Zwiebeln, Nudeln</string>
+    <string name="ingredients_salmon">Lachsfilet, Zitrone, Rosmarin, Salz, Pfeffer</string>
+
+    <!-- Шаги рецептов -->
+    <string name="steps_omelette">1. Die Eier werden in eine tiefe Schüssel zerlegt.\n
+     2. Fügen Sie Salz hinzu.\n
+     3. Mit einer Gabel oder einem Schneebesen aufrühren, bis es glatt ist.\n
+     4. Wir gießen die Milch ein.\n
+     5. Mischen Sie gründlich.\n
+     6.In einer Pfanne bei mittlerer Hitze das Pflanzenöl erhitzen. Wir gießen die Eimischung in die Pfanne.\n
+     7. Die Hitze auf ein Minimum reduzieren, die Pfanne mit einem Deckel abdecken und das Omelett für etwa 5 Minuten kochen, bis die Eimasse vollständig fest ist.</string>
+    <string name="steps_soup">1. Huhn kochen. 2. Geschnittenes Gemüse hinzufügen. 3. Nudeln hinzufügen. Kochen.</string>
+    <string name="steps_salmon">1. Lachs würzen. 2. 5-7 Min pro Seite grillen. 3. Mit Zitrone servieren.</string>
+
+    <!-- НОВЫЕ СТРОКИ для кнопок -->
+    <string name="apply_language">Sprache anwenden</string>
+    <string name="view_recipes">Rezepte ansehen</string>
+
+    <string name="all_recipes">Alle Rezepte</string>
+
+    <string name="play_recipe_voice">Rezept anhören</string>
+
+    <string name="watch_video">Video ansehen</string>
+</resources>
