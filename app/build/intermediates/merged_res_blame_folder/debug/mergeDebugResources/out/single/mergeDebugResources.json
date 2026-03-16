@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.zadanie1.app-debug-33:/raw_timer2_finish_sound.mp3.flat",
+        "source": "com.example.zadanie1.app-main-35:/raw/timer2_finish_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\layout_activity_video.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\layout_activity_youtube_video.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\layout\\activity_youtube_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\raw_omlet_ru.mp3.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\raw\\omlet_ru.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\raw_omlet_de.mp3.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\raw\\omlet_de.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\layout_activity_recipe_detail.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\layout\\activity_recipe_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\raw_omlet_ru_video.mp4.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\raw\\omlet_ru_video.mp4"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\layout_activity_recipe_list.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\layout\\activity_recipe_list.xml"
+    },
+    {
+        "merged": "com.example.zadanie1.app-debug-33:/raw_timer3_finish_sound.mp3.flat",
+        "source": "com.example.zadanie1.app-main-35:/raw/timer3_finish_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\raw_app_start_sound.mp3.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\raw\\app_start_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\raw_open_recipe_sound.mp3.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\raw\\open_recipe_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\layout_item_recipe.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\layout\\item_recipe.xml"
+    },
+    {
+        "merged": "com.example.zadanie1.app-debug-33:/raw_timer1_finish_sound.mp3.flat",
+        "source": "com.example.zadanie1.app-main-35:/raw/timer1_finish_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\drawable_ic_lunch.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\drawable\\ic_lunch.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\raw_transition_sound.mp3.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\raw\\transition_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\raw_omlet_en.mp3.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\raw\\omlet_en.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\drawable_ic_dinner.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\drawable\\ic_dinner.xml"
+    },
+    {
+        "merged": "com.example.zadanie1.app-debug-33:/layout_activity_recipe_detail.xml.flat",
+        "source": "com.example.zadanie1.app-main-35:/layout/activity_recipe_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-debug-33:\\drawable_ic_breakfast.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.zadanie1.app-main-35:\\drawable\\ic_breakfast.xml"
+    }
+]
